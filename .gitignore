@@ -1,0 +1,22 @@
+node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+.env*
+.DS_Store
+
+# Backend
+backend/dist/
+backend/coverage/
+
+# Frontend
+frontend/dist/
+frontend/coverage/
+frontend/.vite/
+
+# Editor/OS
+.idea/
+.vscode/
+Thumbs.db
+
+
